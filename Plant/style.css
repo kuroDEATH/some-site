@@ -351,14 +351,6 @@ span {
     padding-bottom: 30px;
 }
 
-.section-5__card::after {
-    width: 40px;
-    height: 40px;
-    background-image: url(/img/quotation-marks.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
 .section-5__card-wrap {
     display: flex;
     align-items: center;
